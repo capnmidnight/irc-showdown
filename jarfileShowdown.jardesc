@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+    <jar path="D:/Documents and Settings/capn_midnight/Desktop/Showdown0_8.jar"/>
+    <options overwrite="true" compress="true" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="/ShowDown/jarfileShowdown.jardesc" useSourceFolders="false" buildIfNeeded="true"/>
+    <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="true" saveManifest="true" generateManifest="false" manifestLocation="/ShowDown/manifest">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportOutputFolder="false" exportJavaFiles="false">
+        <file path="/ShowDown/netinfo.list"/>
+        <javaElement handleIdentifier="=ShowDown/&lt;network"/>
+        <javaElement handleIdentifier="=ShowDown/&lt;widgets"/>
+        <javaElement handleIdentifier="=ShowDown/&lt;"/>
+        <javaElement handleIdentifier="=ShowDown/&lt;IRC"/>
+        <javaElement handleIdentifier="=ShowDown/&lt;sound"/>
+        <javaElement handleIdentifier="=ShowDown/&lt;graphics"/>
+    </selectedElements>
+</jardesc>
